@@ -2,7 +2,7 @@
 
 **SECOND WIND LIMITED is a Hong Kong product studio that builds AI-powered mobile apps and free web tools** for bird identification, document scanning, tarot, astrology, dream journaling, houseplant care and AI character games.
 
-🌐 Website: **[secondwindltd.xyz](https://secondwindltd.xyz/)** · 📱 [All apps on Google Play](https://play.google.com/store/apps/developer?id=SECOND+WIND+LIMITED) · ✉️ support@secondwindltd.xyz
+🌐 Website: **[secondwindltd.xyz](https://secondwindltd.xyz/)** · 📚 [Open resources](https://secondwindlimited.github.io/) · 📱 [All apps on Google Play](https://play.google.com/store/apps/developer?id=SECOND+WIND+LIMITED) · ✉️ support@secondwindltd.xyz
 
 ## Our apps
 
@@ -13,7 +13,7 @@
 | **[Tarovia](https://tarovia.secondwindltd.xyz/)** | Tarot app with a daily card, AI readings of a photographed spread, all 78 card meanings and a private journal | [Android](https://play.google.com/store/apps/details?id=xyz.secondwind.tarovia) | [78 tarot card meanings (JSON)](https://github.com/secondwindlimited/tarovia-tarot-card-meanings) |
 | **[Astrea](https://astrea.secondwindltd.xyz/)** | Astrology app: birth chart, daily horoscope reading, AI astrologer chat and a 32-lesson astrology course | [Android](https://play.google.com/store/apps/details?id=app.astrea.astrea) | [Astrology glossary and course](https://github.com/secondwindlimited/astrea-astrology-glossary) |
 | **[Somneli](https://somneli.secondwindltd.xyz/en/)** | Dream journal app with optional AI dream interpretation, mood notes, search and export | [Android](https://play.google.com/store/apps/details?id=xyz.secondwind.somneli) | [Dream journal template](https://github.com/secondwindlimited/somneli-dream-journal-template) |
-| **[PlantPal](https://nurtomi.secondwindltd.xyz/)** | Plant care app: photo-based plant problem guidance, illustrated pruning, care reminders and notes | [Android](https://play.google.com/store/apps/details?id=com.secondwind.nurtomi) | [Houseplant problem guides](https://github.com/secondwindlimited/plantpal-houseplant-problems) |
+| **[PlantPal](https://plantpal.secondwindltd.xyz/)** | Plant care app: photo-based plant problem guidance, illustrated pruning, care reminders and notes | [Android](https://play.google.com/store/apps/details?id=com.secondwind.nurtomi) | [Houseplant problem guides](https://github.com/secondwindlimited/plantpal-houseplant-problems) |
 | **[PicWar](https://picwar.secondwindltd.xyz/en)** | AI character RPG: turn any image into a hero, fight text battles and read the story | [iOS](https://apps.apple.com/app/id6760617661) · [Android](https://play.google.com/store/apps/details?id=com.sw.picwar) | [AI RPG character prompts](https://github.com/secondwindlimited/picwar-ai-rpg-character-prompts) |
 
 ## Coming soon
